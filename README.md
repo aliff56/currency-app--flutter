@@ -22,4 +22,4 @@ A simple and intuitive currency converter app built with Flutter. This app allow
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aliff56/currency.git
+   git clone https://github.com/aliff56/currency-app--flutter.git
