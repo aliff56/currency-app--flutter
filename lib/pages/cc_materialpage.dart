@@ -15,6 +15,13 @@ class _CCMaterialpagestate extends State<CcMaterialpage> {
                   result = double.parse(textEditingController.text)*278.16;
                 });
     }
+
+@override
+  void dispose() {
+   textEditingController.dispose();
+    super.dispose();
+  }
+
 @override
   Widget build(BuildContext context) {
     
